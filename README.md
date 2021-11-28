@@ -24,6 +24,37 @@ Desarrolle una aplicacion en python que genere la tabla anterior teniendo las si
 * Entrega Test Unitarios
 * Presenta un diseño de su solucion.
 
+## Descargar:
+
+```
+https://github.com/mdmd0497/prueba_zinobe.git
+```
+
+```
+cd prueba_zinobe
+```
+
+
+## Correr el proyecto
+
+```
+python -m venv venv 
+```
+si esta en windows ejecutar esta linea
+```
+.\venv\Scripts\activate
+```
+```
+pip install -r requirements.txt
+```
+```
+cd src
+```
+
+```
+python main.py
+```
+
 
 
 
